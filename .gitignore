@@ -1,0 +1,11 @@
+# Ignore the brain MRI dataset (too large for GitHub)
+Training/
+Testing/
+dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# (Optional) Ignore the trained model if you want others to train it themselves
+# brain_tumor_resnet18.pth
